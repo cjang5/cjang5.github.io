@@ -7,3 +7,4 @@
 + Get rid of fields in "About" section and replace with info
  - e.g EMAIL: chris.jang423@gmail.com
 + Change color scheme?
++ Find new font
