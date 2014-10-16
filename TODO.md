@@ -1,4 +1,5 @@
-TODO LIST:
+# TODO LIST:
+
 [ ] Fix social network links at bottom
 [ ] Fix placeholder project links
 [ ] Add github link at top navbar
