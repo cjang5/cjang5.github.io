@@ -7,4 +7,4 @@ TODO LIST:
 	e.g EMAIL: 	chris.jang423@gmail.com
 	    TWITTER: 	wtfridge_ 
 		etc
-
+[ ] Change color scheme?
