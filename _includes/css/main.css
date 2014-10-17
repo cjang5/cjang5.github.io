@@ -95,7 +95,7 @@ header img {
     margin: 0 auto 20px;
 }
 
-header .intro-text .name {
+header .intro-text .name { /*Jumbotron intro text*/
     display: block;
     text-transform: uppercase;
     font-family: Monsterrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -149,7 +149,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
