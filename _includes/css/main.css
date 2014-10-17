@@ -145,6 +145,10 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+
+    .navbar-fixed-top.navbar-shrink .navbar-right {
+	font-size: 1.3em;
+    }
 }
 
 .navbar { /* navbar that is always at the top */
