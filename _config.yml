@@ -12,15 +12,13 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+    url: http://twitter.com/wtfridge_	
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/users/3538047/cjang5
   - title: linkedin 
-    url: http://bitbucket.org/jekyll
+    url: http://www.linkedin.com/pub/christopher-jang/a5/8a3/6ba/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/cjang5
 
 # Postal address (add as many lines as necessary)
 address:
