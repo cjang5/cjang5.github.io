@@ -150,7 +150,7 @@ header .intro-text .skills {
 .navbar { /* navbar that is always at the top */
     /*text-transform: uppercase;*/
     font-family: Lobster,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 500; /*originally 700 for Monts*/
 }
 
 .navbar a:focus {
