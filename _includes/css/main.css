@@ -140,6 +140,9 @@ header .intro-text .skills {
 
     .navbar-fixed-top .navbar-right {
 	font-size: 1.4em;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	transition: all .3s;
     }
 
     .navbar-fixed-top.navbar-shrink {
