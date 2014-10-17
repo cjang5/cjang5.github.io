@@ -24,8 +24,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1012 W. Illinois St. 
+  - line: 1216 Wardall Hall
+  - line: Urbana, IL 61801
 
 # Build settings
 markdown: kramdown
