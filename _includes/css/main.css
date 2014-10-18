@@ -230,6 +230,7 @@ section.success {
 }
 
 #portfolio .text-center {
+    font-size: 3em;
     font-family: 'Lobster', sans-serif;
     font-weight: 500;
 }
