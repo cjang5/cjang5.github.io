@@ -383,11 +383,10 @@ footer .footer-below {
     text-align: center;
     font-size: 20px;
     line-height: 45px;
-    font-color: #000000;
 }
 
 .popover-content {
-    color: #000000;
+    color: black;
     /*TODO: Change background color based on color scheme that will be picked */
 }
 
