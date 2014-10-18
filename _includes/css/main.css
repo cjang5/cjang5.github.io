@@ -112,7 +112,7 @@ header .intro-text .name { /*Jumbotron intro text*/
     display: block;
     font-family: 'Lobster', sans-serif;
     font-size: 2em;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 header .intro-text .skills {
