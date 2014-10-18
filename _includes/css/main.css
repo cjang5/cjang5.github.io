@@ -214,7 +214,7 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
-section."Other Stuff" {
+section.OtherStuff {
     color: #fff;
     background: #{{ site.color.secondary }};
 }
