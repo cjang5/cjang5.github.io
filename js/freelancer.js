@@ -37,4 +37,7 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 // Popover info for social network buttons
-$('.btn-social').popover({trigger: "hover"});
+$('.btn-social').popover({
+    trigger: 	"hover"
+    placement: 	"bottom"
+});
