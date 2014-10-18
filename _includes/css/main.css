@@ -385,11 +385,14 @@ footer .footer-below {
     line-height: 45px;
 }
 
+.popover {
+    color: #18bc9c;
+}
+
 .popover-content {
     color: black;
     font-family: 'Bitter', sans-serif;
     font-weight: 100;
-    background-color: #18bc9c
     /*TODO: Change background color based on color scheme that will be picked */
 }
 
