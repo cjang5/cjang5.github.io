@@ -234,9 +234,9 @@ section.success {
     height: 100%;
     opacity: 0;
     background: rgba(24,188,156,.9);
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
-    transition: all ease .5s;
+    -webkit-transition: all ease 3s;
+    -moz-transition: all ease 3s;
+    transition: all ease 3s;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
@@ -447,7 +447,7 @@ footer .footer-below {
 }
 
 .portfolio-modal .close-modal:hover {
-    opacity: 1;
+    opacity: .3;
 }
 
 .portfolio-modal .close-modal .lr {
