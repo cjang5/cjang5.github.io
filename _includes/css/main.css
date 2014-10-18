@@ -50,6 +50,7 @@ h3 {
 }
 
 hr.star-light,
+hr.star-other,
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
@@ -60,6 +61,7 @@ hr.star-primary {
 }
 
 hr.star-light:after,
+hr.star-other:after,
 hr.star-primary:after {
     content: "\f005";
     display: inline-block;
@@ -86,6 +88,15 @@ hr.star-primary {
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
+}
+
+hr.star-other {
+    border-color: #fff;
+}
+
+hr.star-other:after {
+    color: #fff;
+    background-color: #{{ site.color.secondary }};
 }
 
 .img-centered {
