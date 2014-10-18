@@ -116,6 +116,7 @@ header .intro-text .name { /*Jumbotron intro text*/
 }
 
 header .intro-text .skills {
+    font-family: 'Bree Serif', sans-serif;
     font-size: 1.25em;
     font-weight: 300;
 }
