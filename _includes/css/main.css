@@ -215,6 +215,7 @@ section.success {
 }
 
 section.OtherStuff {
+    padding: 50px 0;
     color: #fff;
     background: #{{ site.color.secondary }};
 }
