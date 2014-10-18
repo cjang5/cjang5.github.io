@@ -35,3 +35,6 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+// Popover info for social network buttons
+$('.footer-col ul a').popover(data-trigger="hover");
