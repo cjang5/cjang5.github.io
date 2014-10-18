@@ -110,7 +110,6 @@ header img {
 
 header .intro-text .name { /*Jumbotron intro text*/
     display: block;
-    text-transform: uppercase;
     font-family: 'Lobster', sans-serif;
     font-size: 2em;
     font-weight: 700;
