@@ -2,4 +2,4 @@
 _site/
 
 #ignore all files with these extensions
-*.swp #all the temporary files from gvim
+.*.swp #all the temporary files from gvim
