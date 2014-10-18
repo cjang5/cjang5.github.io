@@ -14,11 +14,14 @@ social:
   - name: Twitter
     title: twitter
     url: http://twitter.com/wtfridge_	
-  - title: stack-overflow
+  - name: Stack Overflow
+    title: stack-overflow
     url: http://stackoverflow.com/users/3538047/cjang5
-  - title: linkedin 
+  - name: Linkedin
+    title: linkedin 
     url: http://www.linkedin.com/pub/christopher-jang/a5/8a3/6ba/
-  - title: github
+  - name: Github
+    title: github
     url: http://github.com/cjang5
 
 # Postal address (add as many lines as necessary)
