@@ -386,8 +386,9 @@ footer .footer-below {
     font-color: #000000;
 }
 
-.popover-title {
-    background: #000000;
+.popover-content {
+    color: #000000;
+    /*TODO: Change background color based on color scheme that will be picked */
 }
 
 .btn:focus,
