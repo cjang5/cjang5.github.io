@@ -390,9 +390,9 @@ footer .footer-below {
 }
 
 .popover-content {
-    color: black;
+    color: white;
     font-family: 'Bitter', sans-serif;
-    font-weight: 100;
+    font-style: bold;
     /*TODO: Change background color based on color scheme that will be picked */
 }
 
