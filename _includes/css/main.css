@@ -227,7 +227,7 @@ section.success {
 
 section.OtherStuff {
     padding-top: 50px 0;
-    padding-bottom: 40px 0;
+    padding-bottom: 0px 0;
     color: #fff;
     background: #{{ site.color.secondary }};
 }
