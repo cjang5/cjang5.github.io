@@ -386,6 +386,10 @@ footer .footer-below {
     font-color: #000000;
 }
 
+.btn-social .popover-title {
+    background: #000000;
+}
+
 .btn:focus,
 .btn:active,
 .btn.active {
