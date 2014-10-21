@@ -4,6 +4,7 @@
 + ~~Add popovers for social network icons~~
 + Split "Contact Me" into two sections
 + Create .favicon for when website is tabbed
++ Make a proper README
 + Fix placeholder project links
 + **MAYBE** Add github link at top navbar
 + ~~Get new profile image for jumbotron~~
