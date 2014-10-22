@@ -168,6 +168,7 @@ header .intro-text .skills {
 	-webkit-transition: all .3s;
 	-moz-transition: all .3s;
 	transition: all .3s;
+   	color: #a2482e;
     }
 
     .navbar-fixed-top.navbar-shrink {
