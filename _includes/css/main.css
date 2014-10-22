@@ -207,11 +207,11 @@ header .intro-text .skills {
 .navbar .navbar-nav li > a:focus {
     outline: 0;
     color: #a2482e;
-    background-color: #a2482e;
+    background-color: #a2482e !important;
 }
 
-.navbar .navbar-right li a:focus {
-	color: #a2482e;
+.navbar .navbar-right li > a:focus {
+	background-color: #fff !important;
 } 
 
 .navbar-default,
