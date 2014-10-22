@@ -26,7 +26,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #fff;
+    color: #{{ site.color.test }};
 
 }
 
@@ -423,10 +423,12 @@ footer .footer-below {
     line-height: 45px;
 }
 
+/*social network buttons at bottom */
 .popover {
     background-color: #a2482e;
 }
 
+/*social network buttons at bottom */
 .popover-content {
     color: white;
     font-family: 'Montserrat', sans-serif;
