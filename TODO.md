@@ -2,6 +2,8 @@
 
 + ~~Fix social network links at bottom~~
 + ~~Add popovers for social network icons~~
++ Figure out changing hover color for buttons at top
++ Figure out background color for scrollspy at navbar
 + Split "Contact Me" into two sections
 + Create .favicon for when website is tabbed
 + Make a proper README
