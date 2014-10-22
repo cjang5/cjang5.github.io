@@ -213,7 +213,7 @@ header .intro-text .skills {
 
 .navbar-default .navbar-nav > .active > a {
 	color: #a2482e;
-	background-color: #{{ site.color.secondary }};
+	background-color: #{{ site.color.primary }};
 }
 
 .navbar-default,
