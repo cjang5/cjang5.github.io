@@ -204,7 +204,7 @@ header .intro-text .skills {
     letter-spacing: 1px;
 }
 
-.navbar .navbar-nav li a:focus {
+.navbar .navbar-nav li > a:focus {
     outline: 0;
     color: #a2482e;
     background-color: #a2482e;
