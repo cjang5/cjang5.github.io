@@ -5,7 +5,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c # 18bc9c
+  primary: 19191d # 18bc9c
   secondary: 27262b # 2c3e50
   secondary-dark: 222124 #233140
 
