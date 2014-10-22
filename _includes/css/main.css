@@ -205,6 +205,7 @@ header .intro-text .skills {
 
 .navbar .navbar-nav li a:focus {
     outline: 0;
+    background: #fff;
 }
 
 .navbar-default,
