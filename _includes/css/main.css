@@ -208,10 +208,10 @@ header .intro-text .skills {
 .navbar-default .navbar-nav > li a:hover {
     outline: 0;
     color: #a2482e;
-    background-color: #a2482e !important;
+    /*background-color: #a2482e !important; */
 }
 
-.nav-list > .active a:hover {
+.navbar-default .navbar-nav > .active > a {
 	background-color: #fff !important;
 }
 
