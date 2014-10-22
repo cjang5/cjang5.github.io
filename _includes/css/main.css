@@ -207,7 +207,7 @@ header .intro-text .skills {
 .navbar .navbar-nav li a:focus {
     outline: 0;
     color: #a2482e;
-    letter-spacing: 10px;
+    background-color: #a2482e;
 }
 
 .navbar .navbar-right li a:focus {
