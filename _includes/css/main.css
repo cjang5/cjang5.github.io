@@ -158,6 +158,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
+	color: #a2482e;
         font-size: 2.4em; /* originally 2em */
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
