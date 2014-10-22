@@ -432,6 +432,7 @@ footer .footer-below {
     font-family: 'Montserrat', sans-serif;
     font-style: bold;
     /*TODO: Change background color based on color scheme that will be picked */
+    background-color: #000000;
 }
 
 .btn:focus,
