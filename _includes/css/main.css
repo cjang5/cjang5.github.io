@@ -203,7 +203,7 @@ header .intro-text .skills {
 .navbar .navbar-nav {
     letter-spacing: 1px;
 }
-/*
+
 .navbar .navbar-nav li a:focus {
     outline: 0;
     color: #a2482e;
@@ -212,7 +212,7 @@ header .intro-text .skills {
 
 .navbar .navbar-right li a:focus {
 	color: #a2482e;
-} */
+} 
 
 .navbar-default,
 .navbar-inverse {
