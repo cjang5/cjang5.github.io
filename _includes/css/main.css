@@ -267,13 +267,12 @@ section.Portfolio {
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption {
+#portfolio .portfolio-item .portfolio-link .caption { /* Modal links under Projects (the pictures) */
     position: absolute;
     width: 100%;
     height: 100%; 
     opacity: 0;
-    /*background: rgba(24,188,156,.9); */
-    background: #a2482e;
+    background: rgba(162, 72, 46, .85); /* Hex color: #a2482e */
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
