@@ -211,10 +211,14 @@ header .intro-text .skills {
     /*background-color: #a2482e !important; */
 }
 
-.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a {
+    color: #a2482e;
+    background-color: #{{ site.color.primary }};
+}
+
 .navbar-default .navbar-nav > .active > a:hover {
-	color: #a2482e;
-	background-color: #{{ site.color.primary }};
+    color: #ad4d31;
+    background-color: #{{ site.color. primary }};
 }
 
 .navbar-default,
