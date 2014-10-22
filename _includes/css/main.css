@@ -201,11 +201,11 @@ header .intro-text .skills {
 }
 
 .navbar .navbar-nav {
-    letter-spacing: 1px;
+    letter-spacing: 10px;
 }
 
 .navbar .navbar-nav li a:focus {
-    /*outline: 0;*/
+    outline: 0;
     color: #a2482e;
 }
 
