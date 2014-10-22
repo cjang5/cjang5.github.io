@@ -27,6 +27,7 @@ a:active,
 a.active {
     outline: 0;
     color: #{{ site.color.primary }};
+
 }
 
 h4,
@@ -210,9 +211,9 @@ header .intro-text .skills {
     background-color: #a2482e !important;
 }
 
-.navbar .navbar-right li > a:focus {
+.nav-list > .active a:hover {
 	background-color: #fff !important;
-} 
+}
 
 .navbar-default,
 .navbar-inverse {
