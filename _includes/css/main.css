@@ -127,7 +127,8 @@ header .intro-text .name { /*Jumbotron intro text*/
     font-weight: 500;
 }
 
-header .intro-text .skills {
+header .intro-text .uiuc,
+header .intro-text .sde {
     font-family: 'Bree Serif', sans-serif;
     font-size: 1.25em;
     font-weight: 300;
@@ -144,7 +145,8 @@ header .intro-text .skills {
         font-size: 4.75em;
     }
 
-    header .intro-text .skills {
+    header .intro-text .uiuc,
+    header .intro-text .sde {
         font-size: 1.75em;
 	color: #a2482e;
     }
