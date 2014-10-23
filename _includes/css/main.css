@@ -205,10 +205,15 @@ header .intro-text .skills {
     letter-spacing: 1px;
 }
 
+/*
 .navbar-default .navbar-nav > li a:hover {
     outline: 0;
     color: #a2482e;
-    /*background-color: #a2482e !important; */
+    background-color: #a2482e !important; 
+} */
+
+.navbar-default .navbar-brand > a {
+    color: #a2482e;
 }
 
 .navbar-default .navbar-nav > .active > a { /*The links at the right on navbar*/
