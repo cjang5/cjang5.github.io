@@ -5,6 +5,9 @@
 + ~~Figure out changing hover color for buttons at top~~
 + ~~Figure out background color for scrollspy at navbar~~
 + Split "Contact Me" into two sections
+ - Get Resume and Blog section set up
+ - After this, get Blog site setup
++ Replace Credit section in footer
 + Create .favicon for when website is tabbed
 + Make a proper README
 + Fix placeholder project links
@@ -12,5 +15,5 @@
 + ~~Get new profile image for jumbotron~~
 + Get rid of fields in "About" section and replace with info
  - e.g EMAIL: chris.jang423@gmail.com
-+ Change color scheme?
++ ~~Change color scheme?~~
 + ~~Find new font~~
