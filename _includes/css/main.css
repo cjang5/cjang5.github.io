@@ -211,13 +211,13 @@ header .intro-text .skills {
     /*background-color: #a2482e !important; */
 }
 
-.navbar-default .navbar-nav > .active > a {
+.navbar-default .navbar-nav > .active > a { /*The links at the right on navbar*/
     color: #a2482e;
     background-color: #{{ site.color.primary }};
 }
 
-.navbar-default .navbar-nav > .active > a:hover {
-    color: #ad4d31;
+.navbar-default .navbar-nav > .active > a:hover { /*When you hover over an active button*/
+    color: #bd5436;
     background-color: #{{ site.color.primary }};
 }
 
