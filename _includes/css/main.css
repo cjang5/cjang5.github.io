@@ -133,6 +133,7 @@ header .intro-text .sde {
     font-size: 1.25em;
     font-weight: 300;
     color: #a2482e;
+    display: block;
 }
 
 @media(min-width:768px) {
