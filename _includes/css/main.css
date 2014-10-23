@@ -212,7 +212,7 @@ header .intro-text .skills {
     background-color: #a2482e !important; 
 } */
 
-.navbar-default .navbar-brand:hover {
+.navbar-default .navbar-header > a:hover {
     color: #a2482e;
 }
 
