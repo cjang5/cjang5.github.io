@@ -263,6 +263,10 @@ section.Portfolio {
     /*background: # */
 }
 
+section.resume .col-lg-6 {
+    background-color: black;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
