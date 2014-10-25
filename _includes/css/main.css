@@ -271,13 +271,6 @@ section.misc { /* 2-part section for Resume/blog */
 
 section.misc .blogbox {
     border-left: 1px solid black;
-    background: #fff;
-}
-
-section.misc .resume {
-    margin-right: 0px;
-    padding-right: 10px;
-    border-right: 1px solid #fff;
 }
 
 section.misc .blog {
