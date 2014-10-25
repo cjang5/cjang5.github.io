@@ -264,7 +264,7 @@ section.Portfolio {
 }
 
 section.Misc { /* 2-part section for Resume/blog */
-    padding: 50px 0 50px 0; /* padding around sides */
+    /*padding: 50px 0 50px 0; padding around sides */
     color: #{{ site.color.primary }}; /* text color */
     background: #fff; /* background color */
 }
