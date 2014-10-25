@@ -263,9 +263,8 @@ section.Portfolio {
     /*background: # */
 }
 
-section.resume .resume1 {
-    color: black;
-    background: black;
+section.resume {
+    background: #{{ site.color.secondary }};
 }
 
 @media(max-width:767px) {
