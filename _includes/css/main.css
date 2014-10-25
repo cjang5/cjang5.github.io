@@ -285,7 +285,7 @@ section.Misc .blog {
 #misc .resumebox .cabin {
     display: block;
     position: relative;
-    margin: 0 auto;
+    margin: auto;
     padding-top: 40px;
     padding-right: 40px;
 }
