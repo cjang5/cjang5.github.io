@@ -253,16 +253,6 @@ section.about {
     background: #{{ site.color.primary }};
 }
 
-section.OtherStuff {
-    padding: 50px 0 35px 0;
-    color: #{{ site.color.primary }};
-    background: #fff;
-}
-
-section.Portfolio {
-    /*background: # */
-}
-
 section.Misc { /* 2-part section for Resume/blog */
     /*padding: 50px 0 50px 0; padding around sides */
     color: #{{ site.color.primary }}; /* text color */
@@ -277,12 +267,14 @@ section.Misc .blogbox {
     border-left: 1px solid black;
 }
 
-section.Misc .blog {
-    
-    /*border-left: 1px solid #fff;*/
+#misc .resume { /* resume text above the image link */
+    display: block;
+    position: relative;
+    margin: auto;
+    padding-right: 50px;
 }
 
-#misc .resumebox .cabin {
+#misc .resumebox .resume-link { /*resume image link */
     display: block;
     position: relative;
     margin: auto;
@@ -290,11 +282,19 @@ section.Misc .blog {
     padding-right: 50px;
 }
 
-#misc .resume {
+#misc .blog { /* Blog text above the image link */
     display: block;
     position: relative;
     margin: auto;
-    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#misc .blogbox .blog-link {
+    display: block;
+    position: relative;
+    margin: auto;
+    padding-top: 40px;
+    padding-left: 50px;
 }
 
 @media(max-width:767px) {
