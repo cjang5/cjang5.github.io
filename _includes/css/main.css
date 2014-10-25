@@ -270,6 +270,10 @@ section.misc { /* 2-part section for Resume/blog */
     background: #{{ site.color.primary }}; /* background color */
 }
 
+section.misc .blogbox {
+    background: #fff;
+}
+
 section.misc .resume {
     margin-right: 0px;
     padding-right: 10px;
@@ -277,7 +281,7 @@ section.misc .resume {
 }
 
 section.misc .blog {
-    background: #fff;
+    
     /*border-left: 1px solid #fff;*/
 }
 
