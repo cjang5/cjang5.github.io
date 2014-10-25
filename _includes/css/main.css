@@ -290,6 +290,13 @@ section.Misc .blog {
     padding-right: 50px;
 }
 
+#misc .resume {
+    display: block;
+    position: relative;
+    margin: auto;
+    padding-right: 50px;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
