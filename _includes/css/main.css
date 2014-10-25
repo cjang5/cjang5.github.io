@@ -264,6 +264,7 @@ section.Portfolio {
 }
 
 section.resume {
+    color: #fff; /* text color */
     background: #{{ site.color.secondary }};
 }
 
