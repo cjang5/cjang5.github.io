@@ -270,7 +270,7 @@ section.misc { /* 2-part section for Resume/blog */
 }
 
 section.misc .resume {
-    padding-right: -10px;
+    padding-right: -100px;
     border-right: 1px solid #fff;
 }
 
