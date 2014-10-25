@@ -263,12 +263,16 @@ section.Portfolio {
     /*background: # */
 }
 
-section.resume { /* 2-part section for Resume/blog */
+section.misc { /* 2-part section for Resume/blog */
     color: #fff; /* text color */
     background: #{{ site.color.primary }}; /* background color */
 }
 
-section.resume .resume1 {
+section.misc .resume {
+    border-right: 1px solid #fff;
+}
+
+section.misc .blog {
     border-right: 1px solid #fff;
 }
 
