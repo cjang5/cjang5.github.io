@@ -286,7 +286,7 @@ section.Misc .blog {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    padding-top: 40px;
 }
 
 @media(max-width:767px) {
