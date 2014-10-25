@@ -282,7 +282,7 @@ section.Misc .blog {
     /*border-left: 1px solid #fff;*/
 }
 
-#misc .cabin {
+#misc .resumebox .cabin {
     display: block;
     position: relative;
     margin: 0 auto;
