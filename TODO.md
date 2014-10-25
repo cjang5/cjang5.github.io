@@ -4,10 +4,14 @@
 + ~~Add popovers for social network icons~~
 + ~~Figure out changing hover color for buttons at top~~
 + ~~Figure out background color for scrollspy at navbar~~
-+ Split "Contact Me" into two sections
- - Get Resume and Blog section set up
- - After this, get Blog site setup
++ ~~Split "Contact Me" into two sections~~
+ - ~~Get Resume and Blog section set up~~
+ - ~~After this, get Blog site setup~~
 + Replace Credit section in footer
++ Replace image links to resume/blog in contact.html
++ Replace images with screenshots in contact.html
++ Start working on About section
++ Get blog site set up
 + Create .favicon for when website is tabbed
 + Make a proper README
 + Fix placeholder project links
