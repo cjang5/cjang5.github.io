@@ -248,7 +248,7 @@ section h2 {
     font-size: 3.5em;
 }
 
-section.success {
+section.about {
     color: #fff;
     background: #{{ site.color.primary }};
 }
@@ -265,7 +265,7 @@ section.Portfolio {
 
 section.resume {
     color: #fff; /* text color */
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
 }
 
 @media(max-width:767px) {
