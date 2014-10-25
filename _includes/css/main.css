@@ -255,8 +255,8 @@ section.about {
 
 section.OtherStuff {
     padding: 50px 0 35px 0;
-    color: #fff;
-    background: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
+    background: #fff;
 }
 
 section.Portfolio {
