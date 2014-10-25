@@ -263,23 +263,30 @@ section.Portfolio {
     /*background: # */
 }
 
-section.misc { /* 2-part section for Resume/blog */
+section.Misc { /* 2-part section for Resume/blog */
     padding: 50px 0 50px 0; /* padding around sides */
     color: #fff; /* text color */
     background: #{{ site.color.primary }}; /* background color */
 }
 
-section.misc .resumebox {
+section.Misc .resumebox {
     border-right: 1px solid black;
 }
 
-section.misc .blogbox {
+section.Misc .blogbox {
     border-left: 1px solid black;
 }
 
-section.misc .blog {
+section.Misc .blog {
     
     /*border-left: 1px solid #fff;*/
+}
+
+#misc .cabin {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
 }
 
 @media(max-width:767px) {
