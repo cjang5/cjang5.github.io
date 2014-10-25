@@ -269,6 +269,10 @@ section.misc { /* 2-part section for Resume/blog */
     background: #{{ site.color.primary }}; /* background color */
 }
 
+section.misc .resumebox {
+    border-right: 1px solid black;
+}
+
 section.misc .blogbox {
     border-left: 1px solid black;
 }
