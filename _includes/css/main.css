@@ -455,7 +455,7 @@ footer .footer-col {
     margin-bottom: 50px;
 }
 
-footer .footer-col p {
+footer .footer-col .address {
     font-family: 'Bitter', sans-serif;
     /*font-weight: 50; */
 }
