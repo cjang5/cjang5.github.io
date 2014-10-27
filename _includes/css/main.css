@@ -248,9 +248,13 @@ section h2 {
     font-size: 3.5em;
 }
 
-section.about {
+section.About {
     color: #fff;
     background: #{{ site.color.primary }};
+}
+
+section.About p {
+    font-family: 'Bitter', sans-serif;
 }
 
 section.Misc { /* 2-part section for Resume/blog */
