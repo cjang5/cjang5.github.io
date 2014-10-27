@@ -8,7 +8,7 @@
  - ~~Get Resume and Blog section set up~~
  - ~~After this, get Blog site setup~~
 + ~~Replace Credit section in footer~~
-+ Create a new CSS rule for the Skype button in footer
++ ~~Create a new CSS rule for the Skype button in footer~~
 + Replace image links to resume/blog in contact.html
 + Replace images with screenshots in contact.html
 + Start working on About section
