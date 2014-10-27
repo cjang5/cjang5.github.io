@@ -275,7 +275,7 @@ section.Misc .blogbox {
     display: block;
     position: relative;
     margin: auto;
-    padding-right: 50px;
+    /*padding-right: 50px;*/
 }
 
 #misc .resumebox .resume-link { /*resume image link */
@@ -283,14 +283,14 @@ section.Misc .blogbox {
     position: relative;
     margin: auto;
     padding-top: 40px;
-    padding-right: 50px;
+    /*padding-right: 50px;*/
 }
 
 #misc .blog { /* Blog text above the image link */
     display: block;
     position: relative;
     margin: auto;
-    padding-left: 50px;
+    /*padding-left: 50px;*/
 }
 
 #misc .blogbox .blog-link {
@@ -298,7 +298,7 @@ section.Misc .blogbox {
     position: relative;
     margin: auto;
     padding-top: 40px;
-    padding-left: 50px;
+    /*padding-left: 50px;*/
 }
 
 @media(max-width:767px) {
