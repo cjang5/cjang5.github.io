@@ -460,6 +460,10 @@ footer .footer-col .address { /* Address <p> under Location in footer */
     font-size: 1.75em;
 }
 
+footer .footer-col .thanks { /* Thanks section in footer */
+    font-family: 'Bitter', sans-serif;
+}
+
 footer .footer-below {
     padding: 25px 0;
     background-color: #{{ site.color.secondary-dark }};
