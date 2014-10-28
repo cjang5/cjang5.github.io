@@ -273,6 +273,9 @@ section.Misc .blogbox {
  
 section.Misc .resumebox a {
     opacity: 0.5;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
 }
 
 section.Misc .resumebox a:hover {
