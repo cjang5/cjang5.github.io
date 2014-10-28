@@ -1,5 +1,4 @@
 # TODO LIST:
-+ Get blog set up
 + Get blog link/image set up in "What's on my Mind"
 + Get project modals set up for what I have
 + Decide to get rid of some or have them lead to nothing
@@ -9,6 +8,7 @@
 + Create proper README
 
 # FINISHED
++ ~~Get blog set up~~
 + ~~Fix social network links at bottom~~
 + ~~Add popovers for social network icons~~
 + ~~Figure out changing hover color for buttons at top~~
