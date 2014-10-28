@@ -270,6 +270,14 @@ section.Misc .resumebox {
 section.Misc .blogbox {
     border-left: 1px solid black;
 }
+ 
+section.Misc .resumebox a {
+    opacity: 0.5;
+}
+
+section.Misc .resumebox a:hover {
+    opacity: 1;
+}
 
 #misc .resume { /* resume text above the image link */
     display: block;
