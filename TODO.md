@@ -1,6 +1,4 @@
 # TODO LIST:
-
-+ ~~Fix social network links at bottom~~
 + Get blog set up
 + Get blog link/image set up in "What's on my Mind"
 + Get project modals set up for what I have
@@ -11,6 +9,7 @@
 + Create proper README
 
 # FINISHED
++ ~~Fix social network links at bottom~~
 + ~~Add popovers for social network icons~~
 + ~~Figure out changing hover color for buttons at top~~
 + ~~Figure out background color for scrollspy at navbar~~
