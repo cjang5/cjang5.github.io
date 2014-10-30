@@ -6,6 +6,7 @@
 + Decide to get rid of some or have them lead to nothing
 + Maybe transition arrow for when I have more
  - Maybe one project per page like Jumbotron
++ Maybe have a page for all projects
 + Create favicon for website
 + Create proper README
 
