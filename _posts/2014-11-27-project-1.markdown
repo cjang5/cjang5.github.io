@@ -6,7 +6,7 @@ img: submarine.png
 alt: image-alt
 project-date: February 2014
 category: Game Remake
-url: Pongerino
+link: Pongerino
 description: A crude remake of the classic game, Pong, one of my very first projects was to recreate it from scratch using C++ and the SDL 2.0 Library. Microsoft Visual Studio was the IDE I used and it was very fun to code from scratch, albeit there were challenges along the way.
 
 ---
