@@ -1,7 +1,5 @@
 # TODO LIST:
 + Have section for blog
-+ Projects section on main site will just have most recent project + description
-+ Have a page for all projects
 + Get new image for About Me section on blog
 + Look into RSS feed
 + Create favicon for website
