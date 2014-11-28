@@ -1,11 +1,15 @@
 # TODO LIST:
++ Remove "Thanks" section in footer
++ Update pictures in modals for projects
++ Remove "Other Stuff" section
 + Have section for blog
 + Get new image for About Me section on blog
-+ Look into RSS feed
 + Create favicon for website
 + Create proper README
++ Look into RSS feed
 
 # FINISHED
++ ~~Updated project modals with what I have~~
 + ~~Create resume link in navbar that directly links to drive.google~~
 + ~~Get blog link/image set up in "What's on my Mind"~~
 + ~~Get blog set up~~
