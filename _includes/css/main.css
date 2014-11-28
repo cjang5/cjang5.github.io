@@ -385,6 +385,13 @@ section.Misc .blogbox a:hover {
 }
 
 /* Modal images for projects */
+.modal-body .projects-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
 .modal-body .projects-link .caption {
     position: absolute;
     width: 100%;
