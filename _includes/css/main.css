@@ -209,13 +209,6 @@ header .intro-text .sde {
     letter-spacing: 1px;
 }
 
-/*
-.navbar-default .navbar-nav > li a:hover {
-    outline: 0;
-    color: #a2482e;
-    background-color: #a2482e !important; 
-} */
-
 .navbar-default .navbar-brand:hover {
     color: #a2482e;
 }
@@ -266,27 +259,7 @@ section.Misc p {
     font-family: 'Bitter', sans-serif;
     font-size: 1.75em;
 }
-
-section.Misc .resumebox {
-    border-right: 1px solid black;
-}
-
-/*
-section.Misc .blogbox {
-    border-left: 1px solid black;
-} */
  
-section.Misc .resumebox a { /*Resume picture link*/
-    opacity: 0.3;
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
-    transition: all ease .5s;
-}
-
-section.Misc .resumebox a:hover {
-    opacity: 1;
-}
-
 section.Misc .blogbox a {
     opacity: 0.3;
     -webkit-transition: all ease .5s;
@@ -296,21 +269,6 @@ section.Misc .blogbox a {
 
 section.Misc .blogbox a:hover {
     opacity: 1;
-}
-
-#misc .resume { /* resume text above the image link */
-    display: block;
-    position: relative;
-    margin: auto;
-    padding-right: 50px;
-}
-
-#misc .resumebox .resume-link { /*resume image link */
-    display: block;
-    position: relative;
-    margin: auto;
-    padding-top: 40px;
-    padding-right: 50px;
 }
 
 #misc .blog { /* Blog text above the image link */
