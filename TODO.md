@@ -1,10 +1,13 @@
 # TODO LIST:
++ Make higher res favicon for site
++ Look for bug that makes navbar links go black after being clicked once
+ - make it turn back to white instead of black
 + Get new image for About Me section on blog
-+ Create favicon for website
 + Create proper README
 + Look into RSS feed
 
 # FINISHED
++ ~~Create favicon for website~~
 + ~~Clean up code, remove blocks I dont need~~
 + ~~Update pictures in modals for projects~~
 + ~~Update modal for chestquest to Not Another Typing Game~~
