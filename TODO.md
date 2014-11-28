@@ -1,4 +1,6 @@
 # TODO LIST:
++ Update modal for chestquest to Not Another Typing Game
+ - And change link to github for NATG not ChestQuest
 + Update pictures in modals for projects
 + Clean up code, remove blocks I dont need
 + Get new image for About Me section on blog
