@@ -1,11 +1,11 @@
 # TODO LIST:
-+ Clean up code, remove blocks I dont need
 + Get new image for About Me section on blog
 + Create favicon for website
 + Create proper README
 + Look into RSS feed
 
 # FINISHED
++ ~~Clean up code, remove blocks I dont need~~
 + ~~Update pictures in modals for projects~~
 + ~~Update modal for chestquest to Not Another Typing Game~~
  - ~~And change link to github for NATG not ChestQuest~~
