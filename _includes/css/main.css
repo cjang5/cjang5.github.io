@@ -267,9 +267,10 @@ section.Misc .resumebox {
     border-right: 1px solid black;
 }
 
+/*
 section.Misc .blogbox {
     border-left: 1px solid black;
-}
+} */
  
 section.Misc .resumebox a { /*Resume picture link*/
     opacity: 0.3;
