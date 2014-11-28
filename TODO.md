@@ -1,13 +1,13 @@
 # TODO LIST:
-+ Remove "Other Stuff" section
 + Update pictures in modals for projects
-+ Have section for blog
 + Get new image for About Me section on blog
 + Create favicon for website
 + Create proper README
 + Look into RSS feed
 
 # FINISHED
++ ~~Have section for blog~~
++ ~~Remove "Other Stuff" section~~
 + ~~Update Thanks section or replace it~~
 + ~~Updated project modals with what I have~~
 + ~~Create resume link in navbar that directly links to drive.google~~
