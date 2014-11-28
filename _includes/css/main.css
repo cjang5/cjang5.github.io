@@ -528,11 +528,12 @@ footer .footer-below {
 .btn-modal { /* Buttons shown in the modal window (close) */
     display: inline-block;
     text-align: center;
-    color: #a2482e;
+    color: #ffffff; /* text color */
+    background-color: #a2482e; /* actual button's color */
 }
 
 .btn-modal:hover { /* Hover rule for modal close button */
-    color: #bd5436;
+    background-color: #bd5436;
 }
 
 /*social network buttons at bottom */
