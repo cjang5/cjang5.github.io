@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 title: Mosaic-O-Matic
 date: 2014-11-27
-img: safe.png
+img: Mosaic-O-Matic.png
 alt: image-alt
 project-date: November 2014
 category: Miscellaneous Programs

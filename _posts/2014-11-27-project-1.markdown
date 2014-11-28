@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: Pongerino
 date: 2014-11-27
-img: submarine.png 
+img: Pongerino.png 
 alt: image-alt
 project-date: February 2014
 category: Game Remake
