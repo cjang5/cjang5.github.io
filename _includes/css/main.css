@@ -404,7 +404,7 @@ section.Misc .blogbox a:hover {
 }
 
 .modal-body .projects-link .caption:hover {
-    opacity: 1;
+    opacity: 0.8;
 }
 
 .modal-body .projects-link .caption .caption-content {
