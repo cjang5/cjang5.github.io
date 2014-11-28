@@ -5,13 +5,6 @@
 + Have a page for all projects
 + Get new image for About Me section on blog
 + Look into RSS feed
-<<<<<<< HEAD
-=======
-+ Popovers for Resumepic and blogpic saying what they are maybe?
-+ Have a "featured" project on front page
- - Link to "All projects" redirects to Github
-+ Maybe have a page for all projects later for redirection
->>>>>>> e98302a3c5e3f1c8bfb70665cd7bd7d6c0062b9b
 + Create favicon for website
 + Create proper README
 
