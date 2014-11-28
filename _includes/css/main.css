@@ -259,7 +259,7 @@ section.About p {
 
 section.Misc { /* Just blog section */
     font-family: 'Bitter', sans-serif;
-    font-size: 1.2em;
+    font-size: 1.4em;
     color: #{{ site.color.primary }}; /* text color */
     background: #fff; /* background color */
 }
