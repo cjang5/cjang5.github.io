@@ -1,5 +1,6 @@
 # TODO LIST:
 + Update pictures in modals for projects
++ Clean up code, remove blocks I dont need
 + Get new image for About Me section on blog
 + Create favicon for website
 + Create proper README
