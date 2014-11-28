@@ -1,7 +1,4 @@
 # TODO LIST:
-+ Update modal for chestquest to Not Another Typing Game
- - And change link to github for NATG not ChestQuest
-+ Update pictures in modals for projects
 + Clean up code, remove blocks I dont need
 + Get new image for About Me section on blog
 + Create favicon for website
@@ -9,6 +6,9 @@
 + Look into RSS feed
 
 # FINISHED
++ ~~Update pictures in modals for projects~~
++ ~~Update modal for chestquest to Not Another Typing Game~~
+ - ~~And change link to github for NATG not ChestQuest~~
 + ~~Have section for blog~~
 + ~~Remove "Other Stuff" section~~
 + ~~Update Thanks section or replace it~~
