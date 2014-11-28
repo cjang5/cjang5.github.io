@@ -389,7 +389,7 @@ section.Misc .blogbox a:hover {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 600px;
 }
 
 .modal-body .projects-link .caption {
