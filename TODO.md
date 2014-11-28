@@ -1,12 +1,10 @@
 # TODO LIST:
++ Create resume link in navbar that directly links to drive.google
++ Have section for blog
++ Projects section on main site will just have most recent project + description
++ Have a page for all projects
 + Get new image for About Me section on blog
 + Look into RSS feed
-+ Popovers for Resumepic and blogpic saying what they are maybe?
-+ Get project modals set up for what I have
-+ Decide to get rid of some or have them lead to nothing
-+ Maybe transition arrow for when I have more
- - Maybe one project per page like Jumbotron
-+ Maybe have a page for all projects
 + Create favicon for website
 + Create proper README
 
