@@ -149,7 +149,7 @@ header .intro-text .sde {
     header .intro-text .uiuc,
     header .intro-text .sde {
         font-size: 1.75em;
-	color: #a2482e;
+	   color: #a2482e;
     }
 }
 
@@ -169,11 +169,11 @@ header .intro-text .sde {
     }
 
     .navbar-fixed-top .navbar-right {
-	font-size: 1.4em;
-	-webkit-transition: all .3s;
-	-moz-transition: all .3s;
-	transition: all .3s;
-   	color: #a2482e;
+        font-size: 1.4em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+        color: #a2482e;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -185,7 +185,7 @@ header .intro-text .sde {
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-right {
-	font-size: 1.3em;
+	   font-size: 1.3em;
     }
 }
 
