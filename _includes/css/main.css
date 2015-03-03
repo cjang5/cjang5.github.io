@@ -155,7 +155,7 @@ header .intro-text .sde {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 0px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -169,11 +169,11 @@ header .intro-text .sde {
     }
 
     .navbar-fixed-top .navbar-right {
-	font-size: 1.4em;
-	-webkit-transition: all .3s;
-	-moz-transition: all .3s;
-	transition: all .3s;
-   	color: #a2482e;
+        font-size: 1.4em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+        color: #a2482e;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -185,7 +185,7 @@ header .intro-text .sde {
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-right {
-	font-size: 1.3em;
+	   font-size: 1.3em;
     }
 }
 
