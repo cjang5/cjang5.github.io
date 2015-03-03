@@ -404,6 +404,11 @@ section.Misc .blogbox a:hover {
     transition: all .3s ease-in-out;
 }
 
+.btn-projects:hover {
+    background-color: #27262b;
+    color: #fff;
+}
+
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
