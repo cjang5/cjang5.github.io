@@ -412,7 +412,7 @@ section.Misc .blogbox a:hover {
 .btn-projects:focus,
 .btn-projects:active,
 .btn-projects.active {
-    color: #27262b;
+    color: #27262b !important;
 }
 
 .btn-outline:hover,
