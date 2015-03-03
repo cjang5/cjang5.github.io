@@ -395,6 +395,15 @@ section.Misc .blogbox a:hover {
     transition: all .3s ease-in-out;
 }
 
+.btn-projects {
+    margin-top: 15px;
+    border: solid 2px #27262b;
+    font-size: 20px;
+    color: #27262b;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
