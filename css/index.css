@@ -5,16 +5,20 @@
   src: url('../fonts/Proxima-Nova-Bold.otf') format('opentype');
 }
 
-.red {
-  color: #FC726F;
+@font-face {
+  font-weight: bold;
+  font-style: normal;
+  font-family: 'Jetbrains-Mono';
+  src: url('../fonts/JetBrainsMono-Bold.ttf') format('truetype');
 }
 
-.yellow {
-  color: #FFBA31;
+.jetbrains {
+  font-family: 'Jetbrains-Mono', sans-serif;
+  font-weight: bold;
 }
 
 .blue {
-  color: #37B1DD;
+  color: #3C7AE2;
 }
 
 h1, h2 {
