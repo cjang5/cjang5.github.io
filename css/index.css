@@ -6,9 +6,8 @@
 }
 
 @font-face {
-  font-weight: semibold;
   font-style: normal;
-  font-family: 'Proxima-Nova';
+  font-family: 'Proxima-Nova Semibold';
   src: url('../fonts/Proxima-Nova-Semibold.otf' format('opentype'));
 }
 
@@ -57,7 +56,7 @@ body {
 }
 
 .semibold {
-  font-weight: semibold;
+  font-family: 'Proxima-Nova Semibold', sans-serif;
 }
 
 p {
