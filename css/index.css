@@ -53,7 +53,7 @@ html, body {
 body {
   font-family: 'Proxima-Nova', sans-serif;
   font-weight: bold;
-  color: #414141;
+  color: #272C38;
 }
 
 .semibold {
@@ -108,14 +108,14 @@ i.fa-file-text {
 
 i.fa-twitter:hover,
 i.fa-file-text:hover {
-  color: #37B1DD;
+  color: #3C7AE2;
 }
 
 i.fa-github:hover,
 i.fa-linkedin:hover {
-  color: #FFBA31;
+  color: #3C7AE2;
 }
 
 i.fa-paper-plane:hover {
-  color: #FC726F;
+  color: #3C7AE2;
 }
