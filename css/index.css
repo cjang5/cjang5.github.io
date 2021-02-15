@@ -6,6 +6,13 @@
 }
 
 @font-face {
+  font-weight: semibold;
+  font-style: normal;
+  font-family: 'Proxima-Nova';
+  src: url('../fonts/Proxima-Nova-Semibold.otf' format('opentype'));
+}
+
+@font-face {
   font-weight: bold;
   font-style: normal;
   font-family: 'Jetbrains-Mono';
@@ -22,7 +29,7 @@
 }
 
 h1, h2 {
-  margin: 0.5rem;
+  margin: 0.3rem;
   letter-spacing: 0.07rem;
 }
 
@@ -34,6 +41,10 @@ h2 {
   font-size: 1.3rem;
 }
 
+#title {
+  font-size: 2rem;
+}
+
 html, body {
   height: 100%;
   margin: 0;
@@ -43,6 +54,14 @@ body {
   font-family: 'Proxima-Nova', sans-serif;
   font-weight: bold;
   color: #414141;
+}
+
+.semibold {
+  font-weight: semibold;
+}
+
+p {
+  margin-top: 5px;
 }
 
 .flexbox {
